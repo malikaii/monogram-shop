@@ -1,0 +1,20 @@
+.home-container {
+
+}
+
+.content-intro {
+    background-color: rgb(30, 65, 96);
+    background-image: url('../../assets/hero-bg.jpg');
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(239, 194, 179) ;
+    background-blend-mode:soft-light;
+}
+
+.content-intro p {
+    font-size: 20px;
+}
